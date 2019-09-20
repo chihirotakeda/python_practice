@@ -1,5 +1,6 @@
 #test test
 # test2 test2
+# test mac git setting 
 
 def sample_function:
     x = 1
